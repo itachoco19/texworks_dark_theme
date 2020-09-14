@@ -2,5 +2,6 @@ This is TeXworks dark theme.
 
 Usege
 
-*TeXwork --stylesheet=/color.css directory*
-
+Give option to TeXworks.
+*TeXwork --stylesheet=/color.css's directory/color.css*
+and replace syntax-pattern.txt.
